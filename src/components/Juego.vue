@@ -251,7 +251,6 @@ export default {
       const puntuaciones = JSON.parse(localStorage.getItem('puntuaciones') || '[]')
       puntuaciones.push(puntuacionFinal)
       
-      // Ordenar por puntuación y guardar solo las mejores 10
       puntuaciones.sort((a, b) => b.puntos - a.puntos)
       localStorage.setItem('puntuaciones', JSON.stringify(puntuaciones.slice(0, 10)))
       
