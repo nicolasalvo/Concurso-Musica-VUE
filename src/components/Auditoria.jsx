@@ -27,7 +27,7 @@ const Auditoria = () => {
     addText('Proyecto desarrollado en React', 12, false)
     addText('Autor: Nicolas Oxovi', 12, true)
     addText(`Fecha: ${new Date().toLocaleDateString()}`, 12, false)
-    addText('URL del proyecto: https://reactgametecniques.netlify.app/auditoria', 12, false)
+    addText('URL del proyecto: https://react-audio-tecniques.netlify.app/auditoria', 12, false)
     y += 5
 
     addText('Introducción', 16, true)
@@ -108,7 +108,7 @@ const Auditoria = () => {
       'Se aseguró que los botones no dependan únicamente de iconos SVG, combinando el icono con texto visible ("Jugar Ahora", "Descargar informe PDF"). Esto evita ambigüedad para los lectores de pantalla.',
       11,
     )
-    y += 5
+    y += 6
 
     addText('Validación final', 16, true)
     addText(
