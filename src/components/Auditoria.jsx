@@ -27,7 +27,7 @@ const Auditoria = () => {
     addText('Proyecto desarrollado en React', 12, false)
     addText('Autor: Nicolas Oxovi', 12, true)
     addText(`Fecha: ${new Date().toLocaleDateString()}`, 12, false)
-    addText('URL del proyecto: https://dapper-biscuit-ed045a.netlify.app/', 12, false)
+    addText('URL del proyecto: https://reactgametecniques.netlify.app/auditoria', 12, false)
     y += 5
 
     addText('Introducción', 16, true)
@@ -132,7 +132,11 @@ const Auditoria = () => {
   }
 
   return (
-    <main id="main" tabIndex="-1" className="focus:outline-none flex justify-center items-center min-h-[80vh] p-8 bg-[#f0f4f8]">
+    <main
+      id="main"
+      tabIndex="-1"
+      className="focus:outline-none flex justify-center items-center min-h-[80vh] p-8 bg-[#f0f4f8]"
+    >
       <div className="border-2 border-brand-blue rounded-[15px] p-8 max-w-[600px] w-full mx-auto text-center bg-white shadow-lg">
         <h1 className="text-brand-blue mb-4 text-3xl font-bold">Auditoría Completa WCAG</h1>
         <p className="text-gray-800 leading-relaxed mb-6 font-medium">
