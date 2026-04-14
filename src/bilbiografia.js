@@ -2,6 +2,8 @@ export const canciones = [
     {
         "artista": "Anitta & J Balvin",
         "titulo": "Downtown",
+        "transcripcion": "Ritmo de reguetón lento. Voz femenina entonando suavemente las estrofas iniciales.",
+        "transcripcion": "Ritmo de reguetón lento. Voz femenina entonando suavemente las estrofas iniciales.",
         "url": "/songs/anitta_balvin_downtown.mp3",
         "opciones": [
             "Downtown", // Correcta
@@ -13,6 +15,8 @@ export const canciones = [
     {
         "artista": "Anuel",
         "titulo": "¿Qué nos pasó?",
+        "transcripcion": "Pista de trap triste. Letra melancólica sobre una relación rota cantada en tono grave.",
+        "transcripcion": "Pista de trap triste. Letra melancólica sobre una relación rota cantada en tono grave.",
         "url": "/songs/anuel_¿quenospaso.mp3",
         "opciones": [
             "Mi Anamá",
@@ -24,6 +28,8 @@ export const canciones = [
     {
         "artista": "J Balvin & Willy William",
         "titulo": "Mi Gente",
+        "transcripcion": "Ritmo de reguetón animado. Voz masculina cantando al ritmo de la base urbana rápida.",
+        "transcripcion": "Ritmo de reguetón animado. Voz masculina cantando al ritmo de la base urbana rápida.",
         "url": "/songs/balvin_willy_migente.mp3",
         "opciones": [
             "Mi Gente", // Correcta
@@ -35,6 +41,8 @@ export const canciones = [
     {
         "artista": "Charlie Puth",
         "titulo": "We Don't Talk Anymore",
+        "transcripcion": "Balada pop suave con guitarra acústica. Voz masculina cantando en tono nostálgico.",
+        "transcripcion": "Balada pop suave con guitarra acústica. Voz masculina cantando en tono nostálgico.",
         "url": "/songs/charlie_wedon'tanymore.mp3",
         "opciones": [
             "Save Your Tears",
@@ -46,6 +54,8 @@ export const canciones = [
     {
         "artista": "Clarent",
         "titulo": "Love",
+        "transcripcion": "Composición rítmica de R&B con líneas vocales melódicas y bajos profundos.",
+        "transcripcion": "Composición rítmica de R&B con líneas vocales melódicas y bajos profundos.",
         "url": "/songs/clarent_love.mp3",
         "opciones": [
             "Love", // Correcta
@@ -57,6 +67,8 @@ export const canciones = [
     {
         "artista": "Cris & Luar",
         "titulo": "Mi Anamá",
+        "transcripcion": "Base de trap urbano con voces rápidas narrando eventos.",
+        "transcripcion": "Base de trap urbano con voces rápidas narrando eventos.",
         "url": "/songs/cris_luar_mianamas.mp3",
         "opciones": [
             "Chuos",
@@ -68,6 +80,8 @@ export const canciones = [
     {
         "artista": "El Efecto",
         "titulo": "Remix",
+        "transcripcion": "Pista urbana con múltiples capas de voces y efectos de sonido enérgicos.",
+        "transcripcion": "Pista urbana con múltiples capas de voces y efectos de sonido enérgicos.",
         "url": "/songs/elefectoremix.mp3",
         "opciones": [
             "Remix", // Correcta
@@ -79,6 +93,8 @@ export const canciones = [
     {
         "artista": "Enrique Iglesias & Bad Bunny",
         "titulo": "El Baño",
+        "transcripcion": "Reguetón de medio tempo. Voz masculina acompañada de percusión caribeña.",
+        "transcripcion": "Reguetón de medio tempo. Voz masculina acompañada de percusión caribeña.",
         "url": "/songs/enrique_badbu_elbaño.mp3",
         "opciones": [
             "Dakiti", 
@@ -90,6 +106,8 @@ export const canciones = [
     {
         "artista": "Lady Gaga & Colby O'Donis",
         "titulo": "Just Dance",
+        "transcripcion": "Tema electropop enérgico. Voz femenina potente con sintetizadores.",
+        "transcripcion": "Tema electropop enérgico. Voz femenina potente con sintetizadores.",
         "url": "/songs/gaga_justdance.mp3",
         "opciones": [
             "Just Dance", // Correcta
@@ -101,6 +119,8 @@ export const canciones = [
     {
         "artista": "Hades",
         "titulo": "Déjà Vu",
+        "transcripcion": "Base rítmica lenta con sintetizadores ambientales. Letra cantada en tono reflexivo.",
+        "transcripcion": "Base rítmica lenta con sintetizadores ambientales. Letra cantada en tono reflexivo.",
         "url": "/songs/hades_dejavu.mp3",
         "opciones": [
             "Moja Big Ghost",
@@ -112,6 +132,8 @@ export const canciones = [
     {
         "artista": "Jhay Cortez & Bad Bunny",
         "titulo": "Dakiti",
+        "transcripcion": "Reguetón futurista con sintetizadores persistentes. Voces masculinas rítmicas.",
+        "transcripcion": "Reguetón futurista con sintetizadores persistentes. Voces masculinas rítmicas.",
         "url": "/songs/jhay_badbu_dakiti.mp3",
         "opciones": [
             "Dakiti", // Correcta
@@ -123,6 +145,8 @@ export const canciones = [
     {
         "artista": "Joseph & Quevedo",
         "titulo": "Chuos",
+        "transcripcion": "Trap latino con tempo rápido, bajos pesados y barras de rap fluidas.",
+        "transcripcion": "Trap latino con tempo rápido, bajos pesados y barras de rap fluidas.",
         "url": "/songs/juseph_quevedo_chuos.mp3",
         "opciones": [
             "Mi Anamá",
@@ -134,6 +158,8 @@ export const canciones = [
     {
         "artista": "Saiko",
         "titulo": "La Forma en que Me Miras",
+        "transcripcion": "Reguetón romántico. Voz masculina cantando de forma suave y apasionada.",
+        "transcripcion": "Reguetón romántico. Voz masculina cantando de forma suave y apasionada.",
         "url": "/songs/laformaenquememiras.mp3",
         "opciones": [
             "La Forma en que Me Miras", // Correcta
@@ -145,6 +171,8 @@ export const canciones = [
     {
         "artista": "Saiko",
         "titulo": "Lo que Necesitas",
+        "transcripcion": "Melodía urbana pegadiza con ritmos de reguetón suave y coros armonizados.",
+        "transcripcion": "Melodía urbana pegadiza con ritmos de reguetón suave y coros armonizados.",
         "url": "/songs/loknecesitas_saiko.mp3",
         "opciones": [
             "Mi Anamá",
@@ -156,6 +184,8 @@ export const canciones = [
     {
         "artista": "Post Malone",
         "titulo": "Circles",
+        "transcripcion": "Pop rock con un riff de bajo distintivo y guitarra acústica constante.",
+        "transcripcion": "Pop rock con un riff de bajo distintivo y guitarra acústica constante.",
         "url": "/songs/malone_circles.mp3",
         "opciones": [
             "Circles", // Correcta
@@ -167,6 +197,8 @@ export const canciones = [
     {
         "artista": "Juice WRLD & Trippie Redd",
         "titulo": "Moja Big Ghost",
+        "transcripcion": "Rap de trap melancólico. Melodías de voz sobre una base con cajas de ritmos.",
+        "transcripcion": "Rap de trap melancólico. Melodías de voz sobre una base con cajas de ritmos.",
         "url": "/songs/mojabighost.mp3",
         "opciones": [
             "WOAH",
@@ -178,6 +210,8 @@ export const canciones = [
     {
         "artista": "Rihanna",
         "titulo": "Don't Stop the Music",
+        "transcripcion": "Música dance-pop impulsada por un bajo potente y un ritmo constante.",
+        "transcripcion": "Música dance-pop impulsada por un bajo potente y un ritmo constante.",
         "url": "/songs/rihanna_dontstop.mp3",
         "opciones": [
             "Don't Stop the Music", // Correcta
@@ -189,6 +223,8 @@ export const canciones = [
     {
         "artista": "The Weeknd",
         "titulo": "Save Your Tears",
+        "transcripcion": "Synth-pop ochentero. Voz clara cantando sobre un tempo animado.",
+        "transcripcion": "Synth-pop ochentero. Voz clara cantando sobre un tempo animado.",
         "url": "/songs/saveourtears.mp3",
         "opciones": [
             "Circles",
@@ -200,6 +236,8 @@ export const canciones = [
     {
         "artista": "Post Malone & Swae Lee",
         "titulo": "Sunflower",
+        "transcripcion": "Pop ligero y soleado. Voces dulces cantadas sobre una base relajante.",
+        "transcripcion": "Pop ligero y soleado. Voces dulces cantadas sobre una base relajante.",
         "url": "/songs/sunflower.mp3",
         "opciones": [
             "Circles",
@@ -211,6 +249,8 @@ export const canciones = [
     {
         "artista": "Comethazine",
         "titulo": "WOAH",
+        "transcripcion": "Pista de rap con bajos muy saturados, baterías rápidas y vocales agresivos.",
+        "transcripcion": "Pista de rap con bajos muy saturados, baterías rápidas y vocales agresivos.",
         "url": "/songs/woah.mp3",
         "opciones": [
             "WOAH", // Correcta

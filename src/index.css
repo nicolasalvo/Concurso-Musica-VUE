@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-blue: rgb(10, 6, 58);
+  --color-brand-blue-hover: #1a1060;
+  --color-brand-blue-light: #1052B3;
+  --color-brand-blue-light-hover: #0b3d87;
+}
+
+@layer base {
+  body {
+    @apply m-0 p-0 font-sans text-gray-800 bg-[#f0f4f8];
+  }
+}
+
+/* Foco visible claro Nivel AA absoluto para toda la web */
+*:focus-visible {
+  outline: 3px solid #ff9800 !important;
+  outline-offset: 2px !important;
+}
+
+/* Reduccion de movimiento para accesibilidad */
+@media (prefers-reduced-motion: reduce) {
+  *, ::before, ::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+    transform: none !important;
+  }
+}
