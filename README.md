@@ -6,6 +6,10 @@ Este proyecto consiste en el desarrollo y adaptación de una aplicación web rea
 
 La aplicación es un concurso musical donde los usuarios deben adivinar canciones, e incluye una auditoría completa que se puede descargar en formato PDF.
 
+## Enlace Netlify
+
+https://react-audio-tecniques.netlify.app/
+
 ## Tecnologías Utilizadas
 
 Para este proyecto se han empleado herramientas modernas de desarrollo frontend:
